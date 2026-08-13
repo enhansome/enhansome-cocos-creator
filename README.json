@@ -1,0 +1,203 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "游戏"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "浏览器实时查看节点树，节点属性，组件，内存等信息 传送门",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-05T13:45:54Z",
+            "owner": "potato47",
+            "repo": "ccc-devtools",
+            "stars": 1258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "热更新可视化面板 传送门",
+          "description": "github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-21T10:52:05Z",
+            "owner": "tidys",
+            "repo": "CocosCreatorPlugins",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "快速打开scene、prefab，Cocos Creator 插件 传送门",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-04T08:21:28Z",
+            "owner": "potato47",
+            "repo": "cocos-creator-quick-open-x",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js支持函数跳转，VS Code 插件 传送门",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-03-26T16:46:55Z",
+            "owner": "potato47",
+            "repo": "vscode-cocos-creator-js",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "编辑器内看知乎233 传送门",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-20T04:04:56Z",
+            "owner": "potato47",
+            "repo": "ccc-plugin-boring",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "插件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等 传送门",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-04T02:26:08Z",
+            "owner": "caochao",
+            "repo": "cocos_creator_proj_base",
+            "stars": 846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "常用Demo集合 传送门",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-30T16:19:29Z",
+            "owner": "Leo501",
+            "repo": "CocosCreatorTutorial",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MVVM库，数据UI绑定 github",
+          "description": "论坛",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-11-24T03:37:23Z",
+            "owner": "wsssheep",
+            "repo": "cocos_creator_mvvm_tools",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2.3+ Shader示例&教程传送门",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-23T11:03:24Z",
+            "owner": "zhitaocai",
+            "repo": "CocosCreator-Shader-Effect-Demo",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "一个简单的游戏框架 传送门",
+          "description": "github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-07-31T03:58:50Z",
+            "owner": "huangx916",
+            "repo": "GameplayFramework",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2.3.0 场景转场特效 传送门",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-25T11:11:52Z",
+            "owner": "2youyou2",
+            "repo": "transitions",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "背景模糊效果2.1.1+ 传送门",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-09-24T00:41:10Z",
+            "owner": "wheatup",
+            "repo": "cocos-creator-blur-mask",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "微信小游戏声明文件d.ts 传送门",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "解决方案"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:51:58.877Z",
+    "original_repository": "potato47/awesome-cocos-creator",
+    "original_repository_sha": "7146365c66444c782ae1ff3dee7b7c9f21137017",
+    "enhanced_repository": "enhansome/enhansome-cocos-creator",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cocos Creator with stars"
+  }
+}
