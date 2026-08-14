@@ -19,7 +19,7 @@
             "last_commit": "2026-04-05T13:45:54Z",
             "owner": "potato47",
             "repo": "ccc-devtools",
-            "stars": 1258
+            "stars": 1259
           }
         },
         {
@@ -193,7 +193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:51:58.877Z",
+    "last_updated": "2026-08-14T14:45:35.376Z",
     "original_repository": "potato47/awesome-cocos-creator",
     "original_repository_sha": "7146365c66444c782ae1ff3dee7b7c9f21137017",
     "enhanced_repository": "enhansome/enhansome-cocos-creator",
