@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "游戏"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163127075,
             "language": "TypeScript",
             "last_commit": "2026-04-05T13:45:54Z",
             "owner": "potato47",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113842607,
             "language": "JavaScript",
             "last_commit": "2021-03-21T10:52:05Z",
             "owner": "tidys",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274649970,
             "language": "JavaScript",
             "last_commit": "2021-04-04T08:21:28Z",
             "owner": "potato47",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263033482,
             "language": "TypeScript",
             "last_commit": "2022-03-26T16:46:55Z",
             "owner": "potato47",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118205405,
             "language": "JavaScript",
             "last_commit": "2018-01-20T04:04:56Z",
             "owner": "potato47",
@@ -82,7 +82,7 @@
       "title": "插件"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108063881,
             "language": "TypeScript",
             "last_commit": "2020-06-04T02:26:08Z",
             "owner": "caochao",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125846008,
             "language": "JavaScript",
             "last_commit": "2024-10-30T16:19:29Z",
             "owner": "Leo501",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182818136,
             "language": "TypeScript",
             "last_commit": "2020-11-24T03:37:23Z",
             "owner": "wsssheep",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229226234,
             "language": "TypeScript",
             "last_commit": "2020-06-23T11:03:24Z",
             "owner": "zhitaocai",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163791450,
             "language": "TypeScript",
             "last_commit": "2019-07-31T03:58:50Z",
             "owner": "huangx916",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239949194,
             "language": "JavaScript",
             "last_commit": "2020-03-25T11:11:52Z",
             "owner": "2youyou2",
@@ -175,26 +181,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185584263,
             "language": "JavaScript",
             "last_commit": "2019-09-24T00:41:10Z",
             "owner": "wheatup",
             "repo": "cocos-creator-blur-mask",
             "stars": 99
           }
-        },
-        {
-          "node_type": "item",
-          "title": "微信小游戏声明文件d.ts 传送门",
-          "description": null,
-          "children": []
         }
       ],
       "title": "解决方案"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:26:26.309Z",
+    "last_updated": "2026-08-19T12:21:12.769Z",
     "original_repository": "potato47/awesome-cocos-creator",
+    "original_repository_id": 148474745,
     "original_repository_sha": "7146365c66444c782ae1ff3dee7b7c9f21137017",
     "enhanced_repository": "enhansome/enhansome-cocos-creator",
     "enhanced_repository_description": null,
