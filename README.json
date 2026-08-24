@@ -5,6 +5,219 @@
       "items": [
         {
           "node_type": "item",
+          "title": "jump",
+          "description": "源码 在线试玩 微信跳一跳复刻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115628317,
+            "language": "TypeScript",
+            "last_commit": "2020-10-19T06:32:01Z",
+            "owner": "potato47",
+            "repo": "jump",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "so-many-games",
+          "description": "源码 在线试玩 竖屏小游戏合集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121100479,
+            "language": "TypeScript",
+            "last_commit": "2018-10-03T02:55:07Z",
+            "owner": "potato47",
+            "repo": "so-many-games",
+            "stars": 865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brick-breaker",
+          "description": "源码 打砖块",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94232872,
+            "language": "JavaScript",
+            "last_commit": "2017-06-13T16:40:21Z",
+            "owner": "potato47",
+            "repo": "brick-breaker-master",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nhwc-client",
+          "description": "源码 毕业设计，多人联机你画我猜",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136339861,
+            "language": "JavaScript",
+            "last_commit": "2018-06-06T14:43:25Z",
+            "owner": "potato47",
+            "repo": "nhwc-client",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "try-to-hug",
+          "description": "源码 参加2018年厦门CiGA48小时游戏制作比赛作品",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141025614,
+            "language": "JavaScript",
+            "last_commit": "2018-07-15T14:15:54Z",
+            "owner": "potato47",
+            "repo": "try-to-hug",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reversi-online",
+          "description": "源码 基于socket.io多人房间匹配黑白棋",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76152111,
+            "language": "JavaScript",
+            "last_commit": "2018-06-20T05:49:34Z",
+            "owner": "potato47",
+            "repo": "reversi-online",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "get47",
+          "description": "源码 一个原创消除类小游戏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73185982,
+            "language": "JavaScript",
+            "last_commit": "2016-11-08T13:13:17Z",
+            "owner": "potato47",
+            "repo": "get47",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "start-catcher",
+          "description": "源码 Cocos Creator文档摘星星示例游戏typescript版",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119416817,
+            "language": "TypeScript",
+            "last_commit": "2018-02-24T08:25:13Z",
+            "owner": "potato47",
+            "repo": "star-catcher",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babykylin_scmj",
+          "description": "源码 幼麟棋牌，比较完整的商业棋牌源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 647146883,
+            "language": "JavaScript",
+            "last_commit": "2023-05-30T06:53:09Z",
+            "owner": "babykylin",
+            "repo": "babykylin_scmj",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CCFish",
+          "description": "源码 单机版捕鱼达人，TS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164645788,
+            "language": "TypeScript",
+            "last_commit": "2022-04-25T08:19:14Z",
+            "owner": "fylz1125",
+            "repo": "CCFish",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SixClear",
+          "description": "源码 在线试玩 六边形消除微信小游戏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200985396,
+            "language": "JavaScript",
+            "last_commit": "2019-08-07T10:20:26Z",
+            "owner": "zx6733090",
+            "repo": "SixClear",
+            "stars": 129
+          }
+        }
+      ],
+      "title": "游戏"
+    },
+    {
+      "description": "Cocos Creator 2.0 教程，更新中",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cocos-creator-tutorial 地址",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142825618,
+            "language": "CSS",
+            "last_commit": "2020-12-29T09:01:45Z",
+            "owner": "potato47",
+            "repo": "cocos-creator-tutorial",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "教程"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "摇杆 https://github.com/potato47/joystick",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149286016,
+            "language": "TypeScript",
+            "last_commit": "2018-09-18T12:59:12Z",
+            "owner": "potato47",
+            "repo": "joystick",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "组件"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "浏览器实时查看节点树，节点属性，组件，内存等信息 传送门",
           "description": null,
           "children": [],
@@ -194,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:16:32.355Z",
+    "last_updated": "2026-08-24T14:26:45.712Z",
     "original_repository": "potato47/awesome-cocos-creator",
     "original_repository_id": 148474745,
     "original_repository_sha": "7146365c66444c782ae1ff3dee7b7c9f21137017",
