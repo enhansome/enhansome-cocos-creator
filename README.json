@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "brick-breaker",
-          "description": "源码 打砖块",
+          "description": "源码  打砖块",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,7 +51,7 @@
         {
           "node_type": "item",
           "title": "nhwc-client",
-          "description": "源码 毕业设计，多人联机你画我猜",
+          "description": "源码  毕业设计，多人联机你画我猜",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -66,7 +66,7 @@
         {
           "node_type": "item",
           "title": "try-to-hug",
-          "description": "源码 参加2018年厦门CiGA48小时游戏制作比赛作品",
+          "description": "源码  参加2018年厦门CiGA48小时游戏制作比赛作品",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "reversi-online",
-          "description": "源码 基于socket.io多人房间匹配黑白棋",
+          "description": "源码  基于socket.io多人房间匹配黑白棋",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "get47",
-          "description": "源码 一个原创消除类小游戏",
+          "description": "源码  一个原创消除类小游戏",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "start-catcher",
-          "description": "源码 Cocos Creator文档摘星星示例游戏typescript版",
+          "description": "源码  Cocos Creator文档摘星星示例游戏typescript版",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -126,7 +126,7 @@
         {
           "node_type": "item",
           "title": "babykylin_scmj",
-          "description": "源码 幼麟棋牌，比较完整的商业棋牌源码",
+          "description": "源码  幼麟棋牌，比较完整的商业棋牌源码",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -141,7 +141,7 @@
         {
           "node_type": "item",
           "title": "CCFish",
-          "description": "源码 单机版捕鱼达人，TS",
+          "description": "源码  单机版捕鱼达人，TS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:10.518Z",
+    "last_updated": "2026-08-25T06:23:19.047Z",
     "original_repository": "potato47/awesome-cocos-creator",
     "original_repository_id": 148474745,
     "original_repository_sha": "7146365c66444c782ae1ff3dee7b7c9f21137017",
