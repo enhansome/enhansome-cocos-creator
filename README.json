@@ -309,7 +309,7 @@
             "last_commit": "2020-06-04T02:26:08Z",
             "owner": "caochao",
             "repo": "cocos_creator_proj_base",
-            "stars": 846
+            "stars": 847
           }
         },
         {
@@ -407,9 +407,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:37:41.611Z",
-    "original_repository": "potato47/awesome-cocos-creator",
-    "original_repository_id": 148474745,
+    "last_updated": "2026-08-27T11:29:27.736Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 148474745,
+      "language": null,
+      "last_commit": "2020-12-16T11:40:27Z",
+      "owner": "potato47",
+      "repo": "awesome-cocos-creator",
+      "stars": 352
+    },
     "original_repository_sha": "7146365c66444c782ae1ff3dee7b7c9f21137017",
     "enhanced_repository": "enhansome/enhansome-cocos-creator",
     "enhanced_repository_description": null,

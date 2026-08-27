@@ -46,7 +46,7 @@
 
 ## 解决方案
 
-* cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等 [传送门](https://github.com/caochao/cocos_creator_proj_base) ⭐ 846 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
+* cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等 [传送门](https://github.com/caochao/cocos_creator_proj_base) ⭐ 847 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
 * 常用Demo集合 [传送门](https://github.com/Leo501/CocosCreatorTutorial) ⭐ 785 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * MVVM库，数据UI绑定 [github](https://github.com/wsssheep/cocos_creator_mvvm_tools) ⭐ 546 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24 [论坛](https://forum.cocos.com/t/ui-mvvm/78821)
 * 2.3+ Shader示例&教程[传送门](https://github.com/zhitaocai/CocosCreatorShaderEffectDemo) ⭐ 483 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-23
@@ -101,4 +101,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
