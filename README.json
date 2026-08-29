@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信跳一跳复刻 CocosCreator + Typescript 在线试玩 https://potato47.github.io/game/jump/",
+            "homepage": null,
             "id": 115628317,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-10-19T06:32:01Z",
+            "open_issues": 2,
             "owner": "potato47",
             "repo": "jump",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "cocos",
+              "cocos-creator",
+              "game",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -26,12 +36,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小游戏集合，一个场景一个游戏，Cocos Creator+TypeScript 制作，2018年春节无聊之作。连载中",
+            "homepage": "https://potato47.github.io/so-many-games/desktop/",
             "id": 121100479,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-10-03T02:55:07Z",
+            "open_issues": 4,
             "owner": "potato47",
             "repo": "so-many-games",
-            "stars": 865
+            "stars": 865,
+            "topics": [
+              "cocos",
+              "cocos-creator",
+              "cocoscreator",
+              "game"
+            ]
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator 1.5 打砖块",
+            "homepage": null,
             "id": 94232872,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-13T16:40:21Z",
+            "open_issues": 0,
             "owner": "potato47",
             "repo": "brick-breaker-master",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -58,12 +83,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2018毕业设计，多人房间匹配你画我猜。Cocos Creator + TypeScript + Go + WebSocket + MongoDB。客户端",
+            "homepage": null,
             "id": 136339861,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-06-06T14:43:25Z",
+            "open_issues": 1,
             "owner": "potato47",
             "repo": "nhwc-client",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "cocos",
+              "cocos-creator"
+            ]
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -74,12 +107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2018厦门CiGA48小时游戏制作比赛作品",
+            "homepage": "https://potato47.github.io/try-to-hug/game/",
             "id": 141025614,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-15T14:15:54Z",
+            "open_issues": 1,
             "owner": "potato47",
             "repo": "try-to-hug",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -90,12 +128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator+Socket.io制作的联机对战黑白棋",
+            "homepage": null,
             "id": 76152111,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-06-20T05:49:34Z",
+            "open_issues": 0,
             "owner": "potato47",
             "repo": "reversi-online",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -106,12 +149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于CocosCreator1.3,原创数字消除，教程blog.csdn.net/potato47",
+            "homepage": null,
             "id": 73185982,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-08T13:13:17Z",
+            "open_issues": 0,
             "owner": "potato47",
             "repo": "get47",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -122,12 +170,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator + TypeScript 入门示例",
+            "homepage": "http://blog.csdn.net/potato47/article/details/79254524",
             "id": 119416817,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2018-02-24T08:25:13Z",
+            "open_issues": 0,
             "owner": "potato47",
             "repo": "star-catcher",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "cocos",
+              "cocos-creator",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -138,12 +195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 647146883,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-30T06:53:09Z",
+            "open_issues": 0,
             "owner": "babykylin",
             "repo": "babykylin_scmj",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -154,12 +216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "creator实现单机捕鱼达人，TS版",
+            "homepage": null,
             "id": 164645788,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-04-25T08:19:14Z",
+            "open_issues": 2,
             "owner": "fylz1125",
             "repo": "CCFish",
-            "stars": 287
+            "stars": 287,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -170,12 +237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":star2:六边形消除",
+            "homepage": null,
             "id": 200985396,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-08-07T10:20:26Z",
+            "open_issues": 0,
             "owner": "zx6733090",
             "repo": "SixClear",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         }
@@ -192,12 +264,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Cocos Creator 2.0 的最新教程(缓慢更新中，预计3.0之前结稿)，QQ群：863758586",
+            "homepage": "https://potato47.github.io/cocos-creator-tutorial/#/first-game",
             "id": 142825618,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2020-12-29T09:01:45Z",
+            "open_issues": 10,
             "owner": "potato47",
             "repo": "cocos-creator-tutorial",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "cocos",
+              "cocos-creator",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         }
@@ -214,12 +295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator 通用摇杆组件。",
+            "homepage": null,
             "id": 149286016,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2018-09-18T12:59:12Z",
+            "open_issues": 0,
             "owner": "potato47",
             "repo": "joystick",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         }
@@ -236,12 +322,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator 网页调试工具，运行时查看、修改节点树，实时更新节点属性，可视化显示缓存资源。",
+            "homepage": null,
             "id": 163127075,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-05T13:45:54Z",
+            "open_issues": 15,
             "owner": "potato47",
             "repo": "ccc-devtools",
-            "stars": 1259
+            "stars": 1259,
+            "topics": [
+              "cocos-creator"
+            ]
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -252,12 +345,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cocos creator 热更新插件,bugly插件,cc-Inspector插件,excel转换插件,贝塞尔曲线插件",
+            "homepage": null,
             "id": 113842607,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-03-21T10:52:05Z",
+            "open_issues": 12,
             "owner": "tidys",
             "repo": "CocosCreatorPlugins",
-            "stars": 697
+            "stars": 697,
+            "topics": [
+              "cocos",
+              "cocos-creator",
+              "cocos2d-js",
+              "cocoscreator",
+              "cocosplugin",
+              "creator"
+            ]
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -268,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator 快速搜索打开资源插件",
+            "homepage": "https://store.cocos.com/#/resources/detail/2362",
             "id": 274649970,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-04-04T08:21:28Z",
+            "open_issues": 1,
             "owner": "potato47",
             "repo": "cocos-creator-quick-open-x",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -284,12 +394,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator JS 代码提示增强，函数跳转，VS Code 插件。",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=nextfu.cocos-creator-js",
             "id": 263033482,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-03-26T16:46:55Z",
+            "open_issues": 6,
             "owner": "potato47",
             "repo": "vscode-cocos-creator-js",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "cocos"
+            ]
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -300,12 +417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cocos creator 插件。有点无聊？看看知乎？",
+            "homepage": null,
             "id": 118205405,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-01-20T04:04:56Z",
+            "open_issues": 0,
             "owner": "potato47",
             "repo": "ccc-plugin-boring",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         }
@@ -322,12 +444,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等",
+            "homepage": null,
             "id": 108063881,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-06-04T02:26:08Z",
+            "open_issues": 8,
             "owner": "caochao",
             "repo": "cocos_creator_proj_base",
-            "stars": 847
+            "stars": 847,
+            "topics": [
+              "cocos-creator",
+              "recycleview"
+            ]
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -338,12 +468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CocosCreator基础教程demo集合",
+            "homepage": null,
             "id": 125846008,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-30T16:19:29Z",
+            "open_issues": 2,
             "owner": "Leo501",
             "repo": "CocosCreatorTutorial",
-            "stars": 785
+            "stars": 785,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -354,12 +489,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "适用于cocos creator 的 mvvm 的工具 集，摆脱传统设置节点属性来控制 UI 的方式",
+            "homepage": null,
             "id": 182818136,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-11-24T03:37:23Z",
+            "open_issues": 14,
             "owner": "wsssheep",
             "repo": "cocos_creator_mvvm_tools",
-            "stars": 545
+            "stars": 545,
+            "topics": [
+              "cocos-creator",
+              "mvvm"
+            ]
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -370,12 +513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator v2.3.+ & v2.2.2 & v2.2.1 版本 Shader Effect Demo（边学边写）",
+            "homepage": null,
             "id": 229226234,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-06-23T11:03:24Z",
+            "open_issues": 2,
             "owner": "zhitaocai",
             "repo": "CocosCreator-Shader-Effect-Demo",
-            "stars": 483
+            "stars": 483,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -386,12 +534,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GameplayFramework for CocosCreator Games",
+            "homepage": "https://huangx916.github.io/2019/01/01/gameplayframework/",
             "id": 163791450,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-07-31T03:58:50Z",
+            "open_issues": 2,
             "owner": "huangx916",
             "repo": "GameplayFramework",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "cocos-creator",
+              "cocoscreator-instant-games",
+              "framework",
+              "gulp",
+              "shaders"
+            ]
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -402,12 +561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transition effect for Cocos Creator",
+            "homepage": null,
             "id": 239949194,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-03-25T11:11:52Z",
+            "open_issues": 1,
             "owner": "2youyou2",
             "repo": "transitions",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         },
@@ -418,12 +582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cocos creator实现背景模糊的效果",
+            "homepage": null,
             "id": 185584263,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-09-24T00:41:10Z",
+            "open_issues": 1,
             "owner": "wheatup",
             "repo": "cocos-creator-blur-mask",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
         }
@@ -432,15 +601,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:21:07.489Z",
+    "last_updated": "2026-08-29T04:51:44.715Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Cocos Creator 资源汇总",
+      "homepage": null,
       "id": 148474745,
       "language": null,
+      "license": null,
       "last_commit": "2020-12-16T11:40:27Z",
+      "open_issues": 0,
       "owner": "potato47",
       "repo": "awesome-cocos-creator",
-      "stars": 352
+      "stars": 352,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cocos",
+        "cocos-creator"
+      ]
     },
     "original_repository_sha": "7146365c66444c782ae1ff3dee7b7c9f21137017",
     "enhanced_repository": "enhansome/enhansome-cocos-creator",
