@@ -34,7 +34,7 @@
 
 ## 插件
 
-* 浏览器实时查看节点树，节点属性，组件，内存等信息 [传送门](https://github.com/potato47/ccc-devtools) ⭐ 1,261 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* 浏览器实时查看节点树，节点属性，组件，内存等信息 [传送门](https://github.com/potato47/ccc-devtools) ⭐ 1,262 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 * 热更新可视化面板 [传送门](http://forum.cocos.com/t/manifest/44397) [github](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/hot-update-tools) ⭐ 697 | 🐛 12 | 🌐 JavaScript | 📅 2021-03-21
 * 快速打开scene、prefab，Cocos Creator 插件 [传送门](https://github.com/potato47/cocos-creator-quick-open-x) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2021-04-04
 * js支持函数跳转，VS Code 插件 [传送门](https://github.com/potato47/vscode-cocos-creator-js) ⭐ 27 | 🐛 6 | 🌐 TypeScript | 📅 2022-03-26
@@ -47,7 +47,7 @@
 ## 解决方案
 
 * cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等 [传送门](https://github.com/caochao/cocos_creator_proj_base) ⭐ 847 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
-* 常用Demo集合 [传送门](https://github.com/Leo501/CocosCreatorTutorial) ⭐ 785 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
+* 常用Demo集合 [传送门](https://github.com/Leo501/CocosCreatorTutorial) ⭐ 786 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * MVVM库，数据UI绑定 [github](https://github.com/wsssheep/cocos_creator_mvvm_tools) ⭐ 545 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24 [论坛](https://forum.cocos.com/t/ui-mvvm/78821)
 * 2.3+ Shader示例&教程[传送门](https://github.com/zhitaocai/CocosCreatorShaderEffectDemo) ⭐ 483 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-23
 * 一个简单的游戏框架 [传送门](https://huangx916.github.io/2019/01/01/gameplayframework/) [github](https://github.com/huangx916/GameplayFramework) ⭐ 306 | 🐛 2 | 🌐 TypeScript | 📅 2019-07-31
@@ -101,4 +101,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
