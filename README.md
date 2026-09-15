@@ -5,14 +5,14 @@
 | 名称               | 源码                                                                                                    | 试玩                                                       | 备注                                    |
 | ---------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------- |
 | jump             | [源码](https://github.com/potato47/jump) ⭐ 155 \| 🐛 2 \| 🌐 TypeScript \| 📅 2020-10-19                | [在线试玩](https://potato47.github.io/game/jump)             | 微信跳一跳复刻                               |
-| so-many-games    | [源码](https://github.com/potato47/so-many-games) ⭐ 865 \| 🐛 4 \| 🌐 TypeScript \| 📅 2018-10-03       | [在线试玩](https://potato47.github.io/so-many-games/desktop) | 竖屏小游戏合集                               |
+| so-many-games    | [源码](https://github.com/potato47/so-many-games) ⭐ 866 \| 🐛 4 \| 🌐 TypeScript \| 📅 2018-10-03       | [在线试玩](https://potato47.github.io/so-many-games/desktop) | 竖屏小游戏合集                               |
 | brick-breaker    | [源码](https://github.com/potato47/brick-breaker-master) ⭐ 77 \| 🐛 0 \| 🌐 JavaScript \| 📅 2017-06-13 |                                                          | 打砖块                                   |
 | nhwc-client      | [源码](https://github.com/potato47/nhwc-client) ⭐ 52 \| 🐛 1 \| 🌐 JavaScript \| 📅 2018-06-06          |                                                          | 毕业设计，多人联机你画我猜                         |
 | try-to-hug       | [源码](https://github.com/potato47/try-to-hug) ⭐ 5 \| 🐛 1 \| 🌐 JavaScript \| 📅 2018-07-15            |                                                          | 参加2018年厦门CiGA48小时游戏制作比赛作品             |
 | reversi-online   | [源码](https://github.com/potato47/reversi-online) ⭐ 51 \| 🐛 0 \| 🌐 JavaScript \| 📅 2018-06-20       |                                                          | 基于socket.io多人房间匹配黑白棋                  |
 | get47            | [源码](https://github.com/potato47/get47) ⭐ 4 \| 🐛 0 \| 🌐 JavaScript \| 📅 2016-11-08                 |                                                          | 一个原创消除类小游戏                            |
 | start-catcher    | [源码](https://github.com/potato47/star-catcher) ⭐ 20 \| 🐛 0 \| 🌐 TypeScript \| 📅 2018-02-24         |                                                          | Cocos Creator文档摘星星示例游戏typescript版     |
-| babykylin\_scmj  | [源码](https://github.com/babykylin/babykylin_scmj) ⭐ 86 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-05-30      |                                                          | 幼麟棋牌，比较完整的商业棋牌源码                      |
+| babykylin\_scmj  | [源码](https://github.com/babykylin/babykylin_scmj) ⭐ 87 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-05-30      |                                                          | 幼麟棋牌，比较完整的商业棋牌源码                      |
 | beimi            | [源码](https://gitee.com/beimigame/beimi)                                                               |                                                          | 贝密棋牌集合，包含麻将、斗地主、德州                    |
 | Physical-Pinball | [源码](https://gitee.com/beimigame/beimi)                                                               | [在线试玩](https://www.super-cell.club/physical-pinball/)    | Cocos Creator 2.0.1 + Javascript 物理弹球 |
 | CCFish           | [源码](https://github.com/fylz1125/CCFish) ⭐ 288 \| 🐛 2 \| 🌐 TypeScript \| 📅 2022-04-25              |                                                          | 单机版捕鱼达人，TS                            |
@@ -34,7 +34,7 @@
 
 ## 插件
 
-* 浏览器实时查看节点树，节点属性，组件，内存等信息 [传送门](https://github.com/potato47/ccc-devtools) ⭐ 1,262 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* 浏览器实时查看节点树，节点属性，组件，内存等信息 [传送门](https://github.com/potato47/ccc-devtools) ⭐ 1,261 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 * 热更新可视化面板 [传送门](http://forum.cocos.com/t/manifest/44397) [github](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/hot-update-tools) ⭐ 697 | 🐛 12 | 🌐 JavaScript | 📅 2021-03-21
 * 快速打开scene、prefab，Cocos Creator 插件 [传送门](https://github.com/potato47/cocos-creator-quick-open-x) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2021-04-04
 * js支持函数跳转，VS Code 插件 [传送门](https://github.com/potato47/vscode-cocos-creator-js) ⭐ 27 | 🐛 6 | 🌐 TypeScript | 📅 2022-03-26
@@ -101,4 +101,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
