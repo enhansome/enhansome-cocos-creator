@@ -331,7 +331,7 @@
             "open_issues": 15,
             "owner": "potato47",
             "repo": "ccc-devtools",
-            "stars": 1264,
+            "stars": 1265,
             "topics": [
               "cocos-creator"
             ]
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:12:45.099Z",
+    "last_updated": "2026-09-21T19:00:13.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
