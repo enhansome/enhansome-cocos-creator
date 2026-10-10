@@ -15,7 +15,7 @@
 | babykylin\_scmj  | [源码](https://github.com/babykylin/babykylin_scmj) ⭐ 87 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-05-30      |                                                          | 幼麟棋牌，比较完整的商业棋牌源码                      |
 | beimi            | [源码](https://gitee.com/beimigame/beimi)                                                               |                                                          | 贝密棋牌集合，包含麻将、斗地主、德州                    |
 | Physical-Pinball | [源码](https://gitee.com/beimigame/beimi)                                                               | [在线试玩](https://www.super-cell.club/physical-pinball/)    | Cocos Creator 2.0.1 + Javascript 物理弹球 |
-| CCFish           | [源码](https://github.com/fylz1125/CCFish) ⭐ 289 \| 🐛 2 \| 🌐 TypeScript \| 📅 2022-04-25              |                                                          | 单机版捕鱼达人，TS                            |
+| CCFish           | [源码](https://github.com/fylz1125/CCFish) ⭐ 290 \| 🐛 2 \| 🌐 TypeScript \| 📅 2022-04-25              |                                                          | 单机版捕鱼达人，TS                            |
 | SixClear         | [源码](https://github.com/zx6733090/SixClear) ⭐ 129 \| 🐛 0 \| 🌐 JavaScript \| 📅 2019-08-07           | [在线试玩](https://zx6733090.github.io/)                     | 六边形消除微信小游戏                            |
 
 ## 教程
@@ -101,4 +101,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
