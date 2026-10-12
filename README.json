@@ -225,7 +225,7 @@
             "open_issues": 2,
             "owner": "fylz1125",
             "repo": "CCFish",
-            "stars": 290,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
@@ -453,7 +453,7 @@
             "open_issues": 8,
             "owner": "caochao",
             "repo": "cocos_creator_proj_base",
-            "stars": 847,
+            "stars": 846,
             "topics": [
               "cocos-creator",
               "recycleview"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:34:12.054Z",
+    "last_updated": "2026-10-12T21:56:17.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",

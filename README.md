@@ -15,7 +15,7 @@
 | babykylin\_scmj  | [源码](https://github.com/babykylin/babykylin_scmj) ⭐ 87 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-05-30      |                                                          | 幼麟棋牌，比较完整的商业棋牌源码                      |
 | beimi            | [源码](https://gitee.com/beimigame/beimi)                                                               |                                                          | 贝密棋牌集合，包含麻将、斗地主、德州                    |
 | Physical-Pinball | [源码](https://gitee.com/beimigame/beimi)                                                               | [在线试玩](https://www.super-cell.club/physical-pinball/)    | Cocos Creator 2.0.1 + Javascript 物理弹球 |
-| CCFish           | [源码](https://github.com/fylz1125/CCFish) ⭐ 290 \| 🐛 2 \| 🌐 TypeScript \| 📅 2022-04-25              |                                                          | 单机版捕鱼达人，TS                            |
+| CCFish           | [源码](https://github.com/fylz1125/CCFish) ⭐ 289 \| 🐛 2 \| 🌐 TypeScript \| 📅 2022-04-25              |                                                          | 单机版捕鱼达人，TS                            |
 | SixClear         | [源码](https://github.com/zx6733090/SixClear) ⭐ 129 \| 🐛 0 \| 🌐 JavaScript \| 📅 2019-08-07           | [在线试玩](https://zx6733090.github.io/)                     | 六边形消除微信小游戏                            |
 
 ## 教程
@@ -46,7 +46,7 @@
 
 ## 解决方案
 
-* cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等 [传送门](https://github.com/caochao/cocos_creator_proj_base) ⭐ 847 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
+* cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等 [传送门](https://github.com/caochao/cocos_creator_proj_base) ⭐ 846 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
 * 常用Demo集合 [传送门](https://github.com/Leo501/CocosCreatorTutorial) ⭐ 787 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * MVVM库，数据UI绑定 [github](https://github.com/wsssheep/cocos_creator_mvvm_tools) ⭐ 545 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24 [论坛](https://forum.cocos.com/t/ui-mvvm/78821)
 * 2.3+ Shader示例&教程[传送门](https://github.com/zhitaocai/CocosCreatorShaderEffectDemo) ⭐ 483 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-23
@@ -101,4 +101,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
