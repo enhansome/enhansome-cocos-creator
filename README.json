@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "potato47",
             "repo": "jump",
-            "stars": 155,
+            "stars": 154,
             "topics": [
               "cocos",
               "cocos-creator",
@@ -273,7 +273,7 @@
             "open_issues": 10,
             "owner": "potato47",
             "repo": "cocos-creator-tutorial",
-            "stars": 54,
+            "stars": 53,
             "topics": [
               "cocos",
               "cocos-creator",
@@ -453,7 +453,7 @@
             "open_issues": 8,
             "owner": "caochao",
             "repo": "cocos_creator_proj_base",
-            "stars": 846,
+            "stars": 845,
             "topics": [
               "cocos-creator",
               "recycleview"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:15:03.661Z",
+    "last_updated": "2026-10-15T17:57:00.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",

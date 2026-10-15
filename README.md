@@ -4,7 +4,7 @@
 
 | 名称               | 源码                                                                                                    | 试玩                                                       | 备注                                    |
 | ---------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------- |
-| jump             | [源码](https://github.com/potato47/jump) ⭐ 155 \| 🐛 2 \| 🌐 TypeScript \| 📅 2020-10-19                | [在线试玩](https://potato47.github.io/game/jump)             | 微信跳一跳复刻                               |
+| jump             | [源码](https://github.com/potato47/jump) ⭐ 154 \| 🐛 2 \| 🌐 TypeScript \| 📅 2020-10-19                | [在线试玩](https://potato47.github.io/game/jump)             | 微信跳一跳复刻                               |
 | so-many-games    | [源码](https://github.com/potato47/so-many-games) ⭐ 867 \| 🐛 4 \| 🌐 TypeScript \| 📅 2018-10-03       | [在线试玩](https://potato47.github.io/so-many-games/desktop) | 竖屏小游戏合集                               |
 | brick-breaker    | [源码](https://github.com/potato47/brick-breaker-master) ⭐ 77 \| 🐛 0 \| 🌐 JavaScript \| 📅 2017-06-13 |                                                          | 打砖块                                   |
 | nhwc-client      | [源码](https://github.com/potato47/nhwc-client) ⭐ 52 \| 🐛 1 \| 🌐 JavaScript \| 📅 2018-06-06          |                                                          | 毕业设计，多人联机你画我猜                         |
@@ -20,7 +20,7 @@
 
 ## 教程
 
-* cocos-creator-tutorial [地址](https://github.com/potato47/cocos-creator-tutorial) ⭐ 54 | 🐛 10 | 🌐 CSS | 📅 2020-12-29
+* cocos-creator-tutorial [地址](https://github.com/potato47/cocos-creator-tutorial) ⭐ 53 | 🐛 10 | 🌐 CSS | 📅 2020-12-29
 
 > Cocos Creator 2.0 教程，更新中
 
@@ -46,7 +46,7 @@
 
 ## 解决方案
 
-* cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等 [传送门](https://github.com/caochao/cocos_creator_proj_base) ⭐ 846 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
+* cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等 [传送门](https://github.com/caochao/cocos_creator_proj_base) ⭐ 845 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
 * 常用Demo集合 [传送门](https://github.com/Leo501/CocosCreatorTutorial) ⭐ 787 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * MVVM库，数据UI绑定 [github](https://github.com/wsssheep/cocos_creator_mvvm_tools) ⭐ 545 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24 [论坛](https://forum.cocos.com/t/ui-mvvm/78821)
 * 2.3+ Shader示例&教程[传送门](https://github.com/zhitaocai/CocosCreatorShaderEffectDemo) ⭐ 483 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-23
@@ -101,4 +101,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
