@@ -204,7 +204,7 @@
             "open_issues": 0,
             "owner": "babykylin",
             "repo": "babykylin_scmj",
-            "stars": 87,
+            "stars": 88,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
@@ -331,7 +331,7 @@
             "open_issues": 15,
             "owner": "potato47",
             "repo": "ccc-devtools",
-            "stars": 1272,
+            "stars": 1273,
             "topics": [
               "cocos-creator"
             ]
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:13:44.003Z",
+    "last_updated": "2026-10-23T18:02:57.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
