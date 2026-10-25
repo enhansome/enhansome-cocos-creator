@@ -225,7 +225,7 @@
             "open_issues": 2,
             "owner": "fylz1125",
             "repo": "CCFish",
-            "stars": 289,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:08:34.936Z",
+    "last_updated": "2026-10-25T17:20:31.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
