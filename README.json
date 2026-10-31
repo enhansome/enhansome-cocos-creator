@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:56:30.162Z",
+    "last_updated": "2026-10-31T18:05:53.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
@@ -613,7 +613,7 @@
       "open_issues": 0,
       "owner": "potato47",
       "repo": "awesome-cocos-creator",
-      "stars": 355,
+      "stars": 356,
       "topics": [
         "awesome",
         "awesome-list",
