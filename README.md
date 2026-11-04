@@ -35,9 +35,9 @@
 ## 插件
 
 * 浏览器实时查看节点树，节点属性，组件，内存等信息 [传送门](https://github.com/potato47/ccc-devtools) ⭐ 1,275 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
-* 热更新可视化面板 [传送门](http://forum.cocos.com/t/manifest/44397) [github](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/hot-update-tools) ⭐ 697 | 🐛 12 | 🌐 JavaScript | 📅 2021-03-21
+* 热更新可视化面板 [传送门](http://forum.cocos.com/t/manifest/44397) [github](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/hot-update-tools) ⭐ 696 | 🐛 12 | 🌐 JavaScript | 📅 2021-03-21
 * 快速打开scene、prefab，Cocos Creator 插件 [传送门](https://github.com/potato47/cocos-creator-quick-open-x) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2021-04-04
-* js支持函数跳转，VS Code 插件 [传送门](https://github.com/potato47/vscode-cocos-creator-js) ⭐ 27 | 🐛 6 | 🌐 TypeScript | 📅 2022-03-26
+* js支持函数跳转，VS Code 插件 [传送门](https://github.com/potato47/vscode-cocos-creator-js) ⭐ 26 | 🐛 6 | 🌐 TypeScript | 📅 2022-03-26
 * 编辑器内看知乎233 [传送门](https://github.com/potato47/ccc-plugin-boring) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-20
 * 运行时查看节点树Chrome插件版 [传送门](http://forum.cocos.com/t/chrome-creator/55669)
 * 运行时查看节点树Creator插件版 [传送门](http://forum.cocos.com/t/cc-inspector/67227)
@@ -101,4 +101,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

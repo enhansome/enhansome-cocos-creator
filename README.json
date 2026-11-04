@@ -354,7 +354,7 @@
             "open_issues": 12,
             "owner": "tidys",
             "repo": "CocosCreatorPlugins",
-            "stars": 697,
+            "stars": 696,
             "topics": [
               "cocos",
               "cocos-creator",
@@ -403,7 +403,7 @@
             "open_issues": 6,
             "owner": "potato47",
             "repo": "vscode-cocos-creator-js",
-            "stars": 27,
+            "stars": 26,
             "topics": [
               "cocos"
             ]
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:22:05.879Z",
+    "last_updated": "2026-11-04T20:37:53.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
