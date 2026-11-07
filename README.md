@@ -12,7 +12,7 @@
 | reversi-online   | [源码](https://github.com/potato47/reversi-online) ⭐ 51 \| 🐛 0 \| 🌐 JavaScript \| 📅 2018-06-20       |                                                          | 基于socket.io多人房间匹配黑白棋                  |
 | get47            | [源码](https://github.com/potato47/get47) ⭐ 4 \| 🐛 0 \| 🌐 JavaScript \| 📅 2016-11-08                 |                                                          | 一个原创消除类小游戏                            |
 | start-catcher    | [源码](https://github.com/potato47/star-catcher) ⭐ 20 \| 🐛 0 \| 🌐 TypeScript \| 📅 2018-02-24         |                                                          | Cocos Creator文档摘星星示例游戏typescript版     |
-| babykylin\_scmj  | [源码](https://github.com/babykylin/babykylin_scmj) ⭐ 88 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-05-30      |                                                          | 幼麟棋牌，比较完整的商业棋牌源码                      |
+| babykylin\_scmj  | [源码](https://github.com/babykylin/babykylin_scmj) ⭐ 87 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-05-30      |                                                          | 幼麟棋牌，比较完整的商业棋牌源码                      |
 | beimi            | [源码](https://gitee.com/beimigame/beimi)                                                               |                                                          | 贝密棋牌集合，包含麻将、斗地主、德州                    |
 | Physical-Pinball | [源码](https://gitee.com/beimigame/beimi)                                                               | [在线试玩](https://www.super-cell.club/physical-pinball/)    | Cocos Creator 2.0.1 + Javascript 物理弹球 |
 | CCFish           | [源码](https://github.com/fylz1125/CCFish) ⭐ 288 \| 🐛 2 \| 🌐 TypeScript \| 📅 2022-04-25              |                                                          | 单机版捕鱼达人，TS                            |
@@ -101,4 +101,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

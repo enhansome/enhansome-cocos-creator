@@ -204,7 +204,7 @@
             "open_issues": 0,
             "owner": "babykylin",
             "repo": "babykylin_scmj",
-            "stars": 88,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:11:58.612Z",
+    "last_updated": "2026-11-07T18:25:44.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
