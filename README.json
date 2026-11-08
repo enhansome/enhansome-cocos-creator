@@ -331,7 +331,7 @@
             "open_issues": 15,
             "owner": "potato47",
             "repo": "ccc-devtools",
-            "stars": 1275,
+            "stars": 1277,
             "topics": [
               "cocos-creator"
             ]
@@ -477,7 +477,7 @@
             "open_issues": 2,
             "owner": "Leo501",
             "repo": "CocosCreatorTutorial",
-            "stars": 785,
+            "stars": 786,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:25:44.974Z",
+    "last_updated": "2026-11-08T18:36:30.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
@@ -613,7 +613,7 @@
       "open_issues": 0,
       "owner": "potato47",
       "repo": "awesome-cocos-creator",
-      "stars": 358,
+      "stars": 359,
       "topics": [
         "awesome",
         "awesome-list",
