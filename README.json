@@ -45,7 +45,7 @@
             "open_issues": 4,
             "owner": "potato47",
             "repo": "so-many-games",
-            "stars": 872,
+            "stars": 873,
             "topics": [
               "cocos",
               "cocos-creator",
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:36:30.768Z",
+    "last_updated": "2026-11-09T23:14:15.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
