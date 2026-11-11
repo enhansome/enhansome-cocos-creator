@@ -223,7 +223,7 @@
             "license": null,
             "last_commit": "2022-04-25T08:19:14Z",
             "open_issues": 2,
-            "owner": "fylz1125",
+            "owner": "wlerry",
             "repo": "CCFish",
             "stars": 288,
             "topics": []
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:40:23.386Z",
+    "last_updated": "2026-11-11T21:00:29.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
