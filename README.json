@@ -354,7 +354,7 @@
             "open_issues": 12,
             "owner": "tidys",
             "repo": "CocosCreatorPlugins",
-            "stars": 696,
+            "stars": 695,
             "topics": [
               "cocos",
               "cocos-creator",
@@ -522,7 +522,7 @@
             "open_issues": 2,
             "owner": "zhitaocai",
             "repo": "CocosCreator-Shader-Effect-Demo",
-            "stars": 484,
+            "stars": 483,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
@@ -543,7 +543,7 @@
             "open_issues": 2,
             "owner": "huangx916",
             "repo": "GameplayFramework",
-            "stars": 306,
+            "stars": 305,
             "topics": [
               "cocos-creator",
               "cocoscreator-instant-games",
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:00:29.735Z",
+    "last_updated": "2026-11-12T21:15:58.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
