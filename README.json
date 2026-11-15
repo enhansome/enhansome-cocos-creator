@@ -453,7 +453,7 @@
             "open_issues": 8,
             "owner": "caochao",
             "repo": "cocos_creator_proj_base",
-            "stars": 844,
+            "stars": 843,
             "topics": [
               "cocos-creator",
               "recycleview"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:55:00.754Z",
+    "last_updated": "2026-11-15T19:30:46.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
