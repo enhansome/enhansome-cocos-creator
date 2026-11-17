@@ -5,7 +5,7 @@
 | 名称               | 源码                                                                                                    | 试玩                                                       | 备注                                    |
 | ---------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------- |
 | jump             | [源码](https://github.com/potato47/jump) ⭐ 154 \| 🐛 2 \| 🌐 TypeScript \| 📅 2020-10-19                | [在线试玩](https://potato47.github.io/game/jump)             | 微信跳一跳复刻                               |
-| so-many-games    | [源码](https://github.com/potato47/so-many-games) ⭐ 874 \| 🐛 4 \| 🌐 TypeScript \| 📅 2018-10-03       | [在线试玩](https://potato47.github.io/so-many-games/desktop) | 竖屏小游戏合集                               |
+| so-many-games    | [源码](https://github.com/potato47/so-many-games) ⭐ 873 \| 🐛 4 \| 🌐 TypeScript \| 📅 2018-10-03       | [在线试玩](https://potato47.github.io/so-many-games/desktop) | 竖屏小游戏合集                               |
 | brick-breaker    | [源码](https://github.com/potato47/brick-breaker-master) ⭐ 77 \| 🐛 0 \| 🌐 JavaScript \| 📅 2017-06-13 |                                                          | 打砖块                                   |
 | nhwc-client      | [源码](https://github.com/potato47/nhwc-client) ⭐ 52 \| 🐛 1 \| 🌐 JavaScript \| 📅 2018-06-06          |                                                          | 毕业设计，多人联机你画我猜                         |
 | try-to-hug       | [源码](https://github.com/potato47/try-to-hug) ⭐ 5 \| 🐛 1 \| 🌐 JavaScript \| 📅 2018-07-15            |                                                          | 参加2018年厦门CiGA48小时游戏制作比赛作品             |
@@ -15,7 +15,7 @@
 | babykylin\_scmj  | [源码](https://github.com/babykylin/babykylin_scmj) ⭐ 87 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-05-30      |                                                          | 幼麟棋牌，比较完整的商业棋牌源码                      |
 | beimi            | [源码](https://gitee.com/beimigame/beimi)                                                               |                                                          | 贝密棋牌集合，包含麻将、斗地主、德州                    |
 | Physical-Pinball | [源码](https://gitee.com/beimigame/beimi)                                                               | [在线试玩](https://www.super-cell.club/physical-pinball/)    | Cocos Creator 2.0.1 + Javascript 物理弹球 |
-| CCFish           | [源码](https://github.com/fylz1125/CCFish) ⭐ 289 \| 🐛 2 \| 🌐 TypeScript \| 📅 2022-04-25              |                                                          | 单机版捕鱼达人，TS                            |
+| CCFish           | [源码](https://github.com/fylz1125/CCFish) ⭐ 290 \| 🐛 2 \| 🌐 TypeScript \| 📅 2022-04-25              |                                                          | 单机版捕鱼达人，TS                            |
 | SixClear         | [源码](https://github.com/zx6733090/SixClear) ⭐ 129 \| 🐛 0 \| 🌐 JavaScript \| 📅 2019-08-07           | [在线试玩](https://zx6733090.github.io/)                     | 六边形消除微信小游戏                            |
 
 ## 教程
@@ -101,4 +101,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
