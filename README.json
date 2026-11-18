@@ -354,7 +354,7 @@
             "open_issues": 12,
             "owner": "tidys",
             "repo": "CocosCreatorPlugins",
-            "stars": 695,
+            "stars": 694,
             "topics": [
               "cocos",
               "cocos-creator",
@@ -453,7 +453,7 @@
             "open_issues": 8,
             "owner": "caochao",
             "repo": "cocos_creator_proj_base",
-            "stars": 843,
+            "stars": 842,
             "topics": [
               "cocos-creator",
               "recycleview"
@@ -522,7 +522,7 @@
             "open_issues": 2,
             "owner": "zhitaocai",
             "repo": "CocosCreator-Shader-Effect-Demo",
-            "stars": 483,
+            "stars": 482,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:07.489Z"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:58:27.279Z",
+    "last_updated": "2026-11-18T21:40:46.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 资源汇总",
@@ -613,7 +613,7 @@
       "open_issues": 0,
       "owner": "potato47",
       "repo": "awesome-cocos-creator",
-      "stars": 359,
+      "stars": 358,
       "topics": [
         "awesome",
         "awesome-list",
